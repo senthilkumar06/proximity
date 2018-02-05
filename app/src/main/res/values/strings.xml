@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">mateRIX</string>
+
+    <!--Google Authentication-->
+    <string name="client_id">176570423075-o6v52pra59aofqv0607m2i4trug0cl55.apps.googleusercontent.com</string>
+</resources>
